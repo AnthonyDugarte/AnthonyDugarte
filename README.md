@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Anthony Dugarte! And I am:
 
 <!--
 **AnthonyDugarte/AnthonyDugarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- System Engineering Student at the _Universidad de los Andes, Venezuela_.
+- Software Developer at _Ignis Gravitas, Inc_.
+- Software Developer at _Novateva, Inc_.
+
+You can reach me at: <toonny1998@gmail.com>.
+
+<!-- [<img alt="AnthonyDugarte | website" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="32px" />][gmail] -->
+
+[<img alt="AnthonyDugarte | website" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" width="32px" />][website]
+[<img alt="AnthonyDugarte | linkedin" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="32px" />][linkedin]
+
+<!-- [<img alt="AnthonyDugarte | twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="32px" />][twitter] -->
+
+[website]: https://anthonydugarte.github.io
+[gmail]: mailto:toonny1998@gmail.com
+[linkedin]: https://www.linkedin.com/in/anthonydugarte
+[twitter]: https://twitter.com/AnthonyDugarte8
