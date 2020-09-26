@@ -24,7 +24,8 @@ You can reach me at: <toonny1998@gmail.com>.
 <!-- [<img alt="AnthonyDugarte | website" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="32px" />][gmail] -->
 
 [<img alt="AnthonyDugarte | website" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" width="32px" />][website]
-[<img alt="AnthonyDugarte | linkedin" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="32px" />][linkedin]
+[<img alt="AnthonyDugarte | LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="32px" />][linkedin]
+[<img alt="AnthonyDugarte | GitLab" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" style="color: blue;" width="32px" />][gitlab]
 
 <!-- [<img alt="AnthonyDugarte | twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="32px" />][twitter] -->
 
@@ -32,3 +33,4 @@ You can reach me at: <toonny1998@gmail.com>.
 [gmail]: mailto:toonny1998@gmail.com
 [linkedin]: https://www.linkedin.com/in/anthonydugarte
 [twitter]: https://twitter.com/AnthonyDugarte8
+[gitlab]: https://gitlab.com/AnthonyDugarte
