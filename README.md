@@ -29,7 +29,7 @@ You can reach me at: <toonny1998@gmail.com>.
 
 <!-- [<img alt="AnthonyDugarte | twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="32px" />][twitter] -->
 
-[website]: https://linktr.ee/anthonydugarte
+[website]: https://anthonydugarte.dev
 [gmail]: mailto:toonny1998@gmail.com
 [linkedin]: https://www.linkedin.com/in/anthonydugarte
 [twitter]: https://twitter.com/AnthonyDugarte8
