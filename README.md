@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- System Engineering Student at the _Universidad de los Andes, Venezuela_.
-- Software Developer at _Ignis Gravitas, Inc_.
-- Software Developer at _Novateva, Inc_.
+- System Engineering Student.
+- Software Developer.
 
 You can reach me at: <contact@anthonydugarte.dev>.
 
