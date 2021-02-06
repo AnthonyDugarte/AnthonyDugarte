@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - Software Developer at _Ignis Gravitas, Inc_.
 - Software Developer at _Novateva, Inc_.
 
-You can reach me at: <toonny1998@gmail.com>.
+You can reach me at: <contact@anthonydugarte.dev>.
 
 <!-- [<img alt="AnthonyDugarte | website" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="32px" />][gmail] -->
 
