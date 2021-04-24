@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 - System Engineering Student.
 - Software Engineer.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnthonyDugarte)](https://github.com/anuraghazra/github-readme-stats)
-
 <!-- [<img alt="AnthonyDugarte | website" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="32px" />][gmail] -->
 
 [<img alt="AnthonyDugarte | website" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" width="32px" />][website]
