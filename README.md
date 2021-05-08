@@ -1,4 +1,4 @@
-### Hi there 👋 I am Anthony Dugarte! And I am:
+### Hi there 👋 I am Anthony Dugarte!
 
 <!--
 **AnthonyDugarte/AnthonyDugarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
