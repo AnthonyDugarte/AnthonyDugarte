@@ -31,3 +31,6 @@ Here are some ideas to get you started:
 [linkedin]: https://www.linkedin.com/in/anthonydugarte
 [twitter]: https://twitter.com/AnthonyDugarte8
 [gitlab]: https://gitlab.com/AnthonyDugarte
+
+
+![](https://hit.yhype.me/github/profile?user_id=34623660)
