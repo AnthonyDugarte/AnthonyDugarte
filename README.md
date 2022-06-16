@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=AnthonyDugarte)
+<!-- ![](https://komarev.com/ghpvc/?username=AnthonyDugarte) -->
 
 ### Hi there 👋 I am Anthony Dugarte!
 
