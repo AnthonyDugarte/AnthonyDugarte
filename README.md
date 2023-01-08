@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- System Engineering Student.
-- Software Engineer.
+<!-- - System Engineering Student. -->
+<!-- - Software Engineer. -->
 
 <!-- [<img alt="AnthonyDugarte | website" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="32px" />][gmail] -->
 
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <!-- [<img alt="AnthonyDugarte | twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="32px" />][twitter] -->
 
 [website]: https://anthonydugarte.dev
-[gmail]: mailto:toonny1998@gmail.com
+[gmail]: mailto:hello@anthonydugarte.dev
 [linkedin]: https://www.linkedin.com/in/anthonydugarte
 [twitter]: https://twitter.com/AnthonyDugarte8
 [gitlab]: https://gitlab.com/AnthonyDugarte
